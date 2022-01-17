@@ -10,4 +10,4 @@
 
 - ### [05. Shiritori](https://github.com/martun-avagyan/016-OOP/blob/main/06shiritori.js)
 
-- ## For More Details Please [:point_right: Click Here :point_left:]{https://classroom.google.com/c/NDMwODEwNzI3NTMz/a/NDMyMDc0OTY0NTkz/details}
+- ## For More Details Please [:point_right: Click Here :point_left:](https://classroom.google.com/c/NDMwODEwNzI3NTMz/a/NDMyMDc0OTY0NTkz/details)

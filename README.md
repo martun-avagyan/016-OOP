@@ -8,6 +8,10 @@
 
 - ### [04. Library & Book Class](https://github.com/martun-avagyan/016-OOP/blob/main/04libraryBook.js)
 
-- ### [05. Shiritori](https://github.com/martun-avagyan/016-OOP/blob/main/06shiritori.js)
+- ### [05. Custom Console](https://github.com/martun-avagyan/016-OOP/blob/main/05myConsole.js)
+
+- ### [06. Shiritori](https://github.com/martun-avagyan/016-OOP/blob/main/06shiritori.js)
+
+- ### [07. Coffee Shop](https://github.com/martun-avagyan/016-OOP/blob/main/07coffeeShop.js)
 
 - ## For More Details Please [:point_right: Click Here :point_left:](https://classroom.google.com/c/NDMwODEwNzI3NTMz/a/NDMyMDc0OTY0NTkz/details)
